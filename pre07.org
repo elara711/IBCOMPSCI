@@ -1,0 +1,53 @@
+* Assignment 4 - Arrays
+
+
+References for this assignment:
+| Reference        | Chapter(s) |
+|------------------+------------|
+| [[https://books.trinket.io/thinkjava/][Think Java]]       |          8 |
+| [[https://introcs.cs.princeton.edu/java/10elements/][Sedgwick / Wayne]] |      1.4 |
+| [[https://chortle.ccsu.edu/Java5/index.html#03][Kjell]]            |      46-49 |
+
+
+
+
+Read chapter 8 from the Think Java.
+
+Short example video: [[https://www.youtube.com/watch?v=UxtM5kZEzDE&list=PL9KxKa8NpFxJF3PmYcixDqBv28Sqi0q6o&index=8][link]] 
+
+
+Arrays in Java are similar to Arrays in Javascript or lists in
+Python. They are, however, more primatave.
+
+In Java you have to declare variables with their types so while a Java
+array can hold many items they all have to be of the same type. You
+also have to specify the number of items an array can hold when you
+create it.
+
+The following code would create an array that can store 5 integers: 
+
+#+begin_src java
+int[] a;
+a = new int[5];
+
+#+end_src
+
+The first one is stored in ~a[0]~ the fifth in ~a[5]~. If you try to
+access an array out of bounds say, a[-1] or a[5] in this case, you'll
+get an error. You also can't print it all in one shot like you can in
+Python or Javascript. The chapter has the rest of the details.
+
+* For submission
+Place all of these in a folder named ~pre03~
+
+All book references are for [[https://books.trinket.io/thinkjava][Think Java]].
+
+| Chapter/section | Exercise | Filename   |
+|-----------------+----------+------------|
+|            8.12 |        1 | Array.java |
+|            8.12 |        2 | See Note   |
+|            8.12 |        4 | Max.java   |
+|            8.12 |        5 | Seive.java |
+** Note:
+
+For exercise 2 write up your answers in a file named answers.txt.

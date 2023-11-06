@@ -1,0 +1,85 @@
+
+
+* Pre Acceptance Pre Work
+
+** Set up your environment
+
+We will be using the following tools for the workshops and first courses in the program. 
+
+1. Git and GitHub
+2. Repl.it as a Java programming environment
+
+This video will walk you through setting up the environment and
+getting started with the prework.
+
+
+Additionally, if you have never programmed in a text based language like Java, we *strongly* recommend participating in our pre-application workshops. 
+
+[[https://www.youtube.com/watch?v=io-JbjGXCf0&list=PL9KxKa8NpFxJF3PmYcixDqBv28Sqi0q6o&index=1][Setup Video]]
+
+
+The above video covers these steps.
+
+1. Go to [[https://github.com][GitHub]] and create an account
+2. Follow this link to accept the prework assignment:
+   [[https://classroom.github.com/a/o_CKiCM7][https://classroom.github.com/a/o_CKiCM7]].
+
+   After accepting the assignment and waiting aminute you'll be able
+   to reload the page and get to the GitHub repository for the
+   assignment. *Bookmark this page*
+   
+3. Set up repl.it
+  1. Go to [[https://repl.it][repl.it]] and sign up *using GitHub*. There will be a link
+     for this underneath the username and password boxes.
+  2. Click on *+ Create Repl* button.
+  3. Click on the *Import from GitHub* button on the upper left of the
+     dialog.
+  4. Type in the full GitHub repo name (it should be
+     hunter-teacher-cert/cohort-3-prework-githubname or
+     something similar) and click the *+ import from GitHub button
+4. After a minute you should see that you have a repl that is linked
+   to your GitHub repo. 
+5. Follow the video to see how to use the version control button to
+   synchronise repl.it and github.
+
+* Workflow
+
+1. Whenever you sit down to repl.it, click on the version control button to make sure everything is up to date.
+2. After creating and editing new files, click on the version control button and commit and push the changes to github by first typing in a logging message in the message box and the clicking the commit and push button. Confirm everything is in sync by viewing both the repl.it and github web sites.
+
+See the assgignment section after the Java resources for the specific prework assignments.
+
+* Java resources
+
+- Think Java (Downy, Mayfield): [[http://greenteapress.com/thinkjava6/html/index.html][Text]], [[https://books.trinket.io/thinkjava/][Interactive Text]]
+- [[https://introcs.cs.princeton.edu/java/][CS - Sedgewick / Wayne]]
+- [[https://chortle.ccsu.edu/Java5/index.html#03][Intro to CS using Java - Kjell]]
+- [[https://horstmann.com/sjsu/cs046/][Intro to Java - Udacity CS046]]
+
+
+* Assignments:
+
+*IMPORTANT GRADING NOTE:*
+
+Some of the exercises in the prework will be simple and some will be
+very challenging. While we expect you to attempt all of them you might
+not complete every single one of them.
+
+We have added some challenge problems so that you can stretch yourself
+but so long as you show expertise in each main concept you won't be
+penalized for missing an exercise or two here or there.
+
+
+*PRO TIP:* Do not copy and paste code from either online sources or
+earlier assignments. Type it in. This will help you remember the Java
+constructs and will make later sections of the program easier.
+
+
+1. Assignment 1 - Hello world! - [[./pre01.org][link]]
+2. Assignment 2 - Data types - [[./pre02.org][link]]
+3. Assignment 3 - Void methods - [[./pre03.org][link]]
+3. Assignment 4 - Conditionals - [[./pre04.org][link]]
+4. Assignment 5 - Value methods - [[./pre05.org][link]]
+5. Assignment 6 - Loops  - [[./pre06.org][link]]
+4. Assignment 7 - Arrays - [[./pre07.org][link]]
+7. Assignment 8 - Final project - [[./pre08.org][link]]
